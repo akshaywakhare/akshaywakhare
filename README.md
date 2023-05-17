@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Akshay Wakhare</h1>
-
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+<h1 align="center">Hi 👋, I'm Akshay Wakhare</h1> 
 <h3 align="center">A passionate backend developer from India</h3>
 
+
 ## 📖 About me
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 💻 I'm a  software engineer
 * 🎨 I'm a self-taught backend developer
@@ -10,7 +12,7 @@
 * 🎓 I'm a Computer Science student (graduating in July 2023)  
 * 👯 I’m looking to collaborate on **Java Projects**
 
-* 📫 How to reach me **akshaywakhare@gmail.com**
+* 📫 How to reach me **akshaywakhare892@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +34,6 @@
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaywakhare" alt="akshaywakhare" /></a> </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaywakhare&label=Profile%20views&color=0e75b6&style=flat" alt="akshaywakhare" /> </p> -->
 
